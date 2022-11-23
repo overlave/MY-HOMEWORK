@@ -1,0 +1,15 @@
+C:\PAPKA\С#\C#1\Hometasks_4_C\bin\Debug\net6.0\Hometasks_4_C.exe
+C:\PAPKA\С#\C#1\Hometasks_4_C\bin\Debug\net6.0\Hometasks_4_C.deps.json
+C:\PAPKA\С#\C#1\Hometasks_4_C\bin\Debug\net6.0\Hometasks_4_C.runtimeconfig.json
+C:\PAPKA\С#\C#1\Hometasks_4_C\bin\Debug\net6.0\Hometasks_4_C.dll
+C:\PAPKA\С#\C#1\Hometasks_4_C\bin\Debug\net6.0\Hometasks_4_C.pdb
+C:\PAPKA\С#\C#1\Hometasks_4_C\obj\Debug\net6.0\Hometasks_4_C.csproj.AssemblyReference.cache
+C:\PAPKA\С#\C#1\Hometasks_4_C\obj\Debug\net6.0\Hometasks_4_C.GeneratedMSBuildEditorConfig.editorconfig
+C:\PAPKA\С#\C#1\Hometasks_4_C\obj\Debug\net6.0\Hometasks_4_C.AssemblyInfoInputs.cache
+C:\PAPKA\С#\C#1\Hometasks_4_C\obj\Debug\net6.0\Hometasks_4_C.AssemblyInfo.cs
+C:\PAPKA\С#\C#1\Hometasks_4_C\obj\Debug\net6.0\Hometasks_4_C.csproj.CoreCompileInputs.cache
+C:\PAPKA\С#\C#1\Hometasks_4_C\obj\Debug\net6.0\Hometasks_4_C.dll
+C:\PAPKA\С#\C#1\Hometasks_4_C\obj\Debug\net6.0\refint\Hometasks_4_C.dll
+C:\PAPKA\С#\C#1\Hometasks_4_C\obj\Debug\net6.0\Hometasks_4_C.pdb
+C:\PAPKA\С#\C#1\Hometasks_4_C\obj\Debug\net6.0\Hometasks_4_C.genruntimeconfig.cache
+C:\PAPKA\С#\C#1\Hometasks_4_C\obj\Debug\net6.0\ref\Hometasks_4_C.dll

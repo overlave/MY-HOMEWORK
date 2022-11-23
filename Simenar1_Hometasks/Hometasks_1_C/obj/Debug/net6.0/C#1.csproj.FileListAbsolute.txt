@@ -1,0 +1,15 @@
+C:\PAPKA\С#\C#1\bin\Debug\net6.0\C#1.exe
+C:\PAPKA\С#\C#1\bin\Debug\net6.0\C#1.deps.json
+C:\PAPKA\С#\C#1\bin\Debug\net6.0\C#1.runtimeconfig.json
+C:\PAPKA\С#\C#1\bin\Debug\net6.0\C#1.dll
+C:\PAPKA\С#\C#1\bin\Debug\net6.0\C#1.pdb
+C:\PAPKA\С#\C#1\obj\Debug\net6.0\C#1.csproj.AssemblyReference.cache
+C:\PAPKA\С#\C#1\obj\Debug\net6.0\C#1.GeneratedMSBuildEditorConfig.editorconfig
+C:\PAPKA\С#\C#1\obj\Debug\net6.0\C#1.AssemblyInfoInputs.cache
+C:\PAPKA\С#\C#1\obj\Debug\net6.0\C#1.AssemblyInfo.cs
+C:\PAPKA\С#\C#1\obj\Debug\net6.0\C#1.csproj.CoreCompileInputs.cache
+C:\PAPKA\С#\C#1\obj\Debug\net6.0\C#1.dll
+C:\PAPKA\С#\C#1\obj\Debug\net6.0\refint\C#1.dll
+C:\PAPKA\С#\C#1\obj\Debug\net6.0\C#1.pdb
+C:\PAPKA\С#\C#1\obj\Debug\net6.0\C#1.genruntimeconfig.cache
+C:\PAPKA\С#\C#1\obj\Debug\net6.0\ref\C#1.dll
