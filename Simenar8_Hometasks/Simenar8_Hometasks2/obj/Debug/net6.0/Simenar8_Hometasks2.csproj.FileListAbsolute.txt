@@ -1,0 +1,15 @@
+C:\PAPKA\С#\C#\Simenar8_Hometasks\Simenar8_Hometasks2\bin\Debug\net6.0\Simenar8_Hometasks2.exe
+C:\PAPKA\С#\C#\Simenar8_Hometasks\Simenar8_Hometasks2\bin\Debug\net6.0\Simenar8_Hometasks2.deps.json
+C:\PAPKA\С#\C#\Simenar8_Hometasks\Simenar8_Hometasks2\bin\Debug\net6.0\Simenar8_Hometasks2.runtimeconfig.json
+C:\PAPKA\С#\C#\Simenar8_Hometasks\Simenar8_Hometasks2\bin\Debug\net6.0\Simenar8_Hometasks2.dll
+C:\PAPKA\С#\C#\Simenar8_Hometasks\Simenar8_Hometasks2\bin\Debug\net6.0\Simenar8_Hometasks2.pdb
+C:\PAPKA\С#\C#\Simenar8_Hometasks\Simenar8_Hometasks2\obj\Debug\net6.0\Simenar8_Hometasks2.csproj.AssemblyReference.cache
+C:\PAPKA\С#\C#\Simenar8_Hometasks\Simenar8_Hometasks2\obj\Debug\net6.0\Simenar8_Hometasks2.GeneratedMSBuildEditorConfig.editorconfig
+C:\PAPKA\С#\C#\Simenar8_Hometasks\Simenar8_Hometasks2\obj\Debug\net6.0\Simenar8_Hometasks2.AssemblyInfoInputs.cache
+C:\PAPKA\С#\C#\Simenar8_Hometasks\Simenar8_Hometasks2\obj\Debug\net6.0\Simenar8_Hometasks2.AssemblyInfo.cs
+C:\PAPKA\С#\C#\Simenar8_Hometasks\Simenar8_Hometasks2\obj\Debug\net6.0\Simenar8_Hometasks2.csproj.CoreCompileInputs.cache
+C:\PAPKA\С#\C#\Simenar8_Hometasks\Simenar8_Hometasks2\obj\Debug\net6.0\Simenar8_Hometasks2.dll
+C:\PAPKA\С#\C#\Simenar8_Hometasks\Simenar8_Hometasks2\obj\Debug\net6.0\refint\Simenar8_Hometasks2.dll
+C:\PAPKA\С#\C#\Simenar8_Hometasks\Simenar8_Hometasks2\obj\Debug\net6.0\Simenar8_Hometasks2.pdb
+C:\PAPKA\С#\C#\Simenar8_Hometasks\Simenar8_Hometasks2\obj\Debug\net6.0\Simenar8_Hometasks2.genruntimeconfig.cache
+C:\PAPKA\С#\C#\Simenar8_Hometasks\Simenar8_Hometasks2\obj\Debug\net6.0\ref\Simenar8_Hometasks2.dll
